@@ -36,6 +36,8 @@ public class Ifstatment {
 			System.out.println((int)d1*d2);
 		else 
 			System.out.println("invalid programe");
+		System.out.println("invalid programe");
+		
 		
 }
 	
