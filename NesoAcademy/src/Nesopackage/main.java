@@ -43,7 +43,7 @@ public class main {
 		
 		//System.out.println("neso".concat(" academy").isEmpty());
 		
-		
+		System.out.println("hello");
 	}
 	
 	
